@@ -1,6 +1,6 @@
 # SMTP VALIDATOR
 
-A Windows-friendly CLI to validate SMTP credentials from a list file. It supports STARTTLS (`587`) and SSL (`465`), shows colorized, streaming output, retries Office 365 using `smtp.office365.com`, and writes valid entries to `valid_smtp.txt`.
+CLI to validate SMTP credentials from a list file. It supports STARTTLS (`587`) and SSL (`465`), shows colorized, streaming output, retries Office 365 using `smtp.office365.com`, and writes valid entries to `valid_smtp.txt`.
 
 ## Requirements
 - Python 3 on Windows (`py` launcher available)
